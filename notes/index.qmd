@@ -17,7 +17,8 @@ format:
 
 These comprehensive notes cover all the material presented in the course.
 
-**Download Options:**
+**Επιλογές:**
+
 - 📖 Read Online (you're here!)
 - [📄 Download PDF](Εισαγωγή-στην-επιχειρησιακή-έρευνα-Notes.pdf)
 
@@ -25,7 +26,8 @@ These comprehensive notes cover all the material presented in the course.
 
 The notes are organized into the following chapters:
 
-1. [Chapter 1: Topic Title](chapter-01.qmd)
+1. [Κεφάλαιο 1: Εισαγωγή](chapter-01.qmd)
+2. [Κεφάλαιο 2: Ποσοτική έρευνα](chapter-02.qmd)
 
 *Note: The PDF version is automatically generated and updated with each build.*
 

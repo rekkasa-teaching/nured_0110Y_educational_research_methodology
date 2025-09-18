@@ -2,25 +2,25 @@
 title: "Εισαγωγή στην εκπαιδευτική έρευνα"
 ---
 
-# Welcome to the Course Notes
+# Σημειώσεις του μαθήματος
 
-These comprehensive notes cover all the material presented in the course.
+Εδώ θα βρείτε μία λίστα με όλες τις σημειώσεις που θα χρησιμοποιηθούν για την διδασκαλία του μαθήματος το χειμερινό
+εξάμνηνο 2025-2026.
 
-**Download Options:**
-- 📖 Read Online (you're here!)
-- [📄 Download PDF](Εισαγωγή-στην-επιχειρησιακή-έρευνα-Notes.pdf)
+**Επιλογές:**
 
-## Table of Contents
+- 📖 Διαβάστε online (βρίσκεστε εδώ!)
+- [📄 Κατεβάστε το pdf](notes/print.pdf)
 
-The notes are organized into the following chapters:
+## Περιεχόμενα
 
-1. [Chapter 1: Topic Title](notes/chapter-01.qmd)
+Οι σημειώσεις του μαθήματος οργανώνονται στα ακόλουθα κεφάλαια:
 
-*Note: The PDF version is automatically generated and updated with each build.*
+1. [Κεφάλαιο 1: Εισαγωγή](notes/chapter-01.qmd)
+1. [Κεφάλαιο 2: Ποσοτική έρευνα](notes/chapter-02.qmd)
 
-## About These Notes
+## Σχετικά
 
-**Author:** Αλέξανδρος Ρέκκας
-**Course:** Εισαγωγή στην επιχειρησιακή έρευνα
+**Συγγραφέας:** Δρ. Αλέξανδρος Ρέκκας
 
-These notes are designed to complement the lecture slides and provide a comprehensive reference for the course material.
+**Μάθημα:** Εισαγωγή στην εκπαιδευτική έρευνα
