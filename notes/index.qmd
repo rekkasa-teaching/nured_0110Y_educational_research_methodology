@@ -28,6 +28,7 @@ The notes are organized into the following chapters:
 
 1. [Κεφάλαιο 1: Εισαγωγή](chapter-01.qmd)
 2. [Κεφάλαιο 2: Ποσοτική έρευνα](chapter-02.qmd)
+2. [Κεφάλαιο 3: Ποιοτική έρευνα](chapter-03.qmd)
 
 *Note: The PDF version is automatically generated and updated with each build.*
 
