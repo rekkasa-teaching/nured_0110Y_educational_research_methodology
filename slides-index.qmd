@@ -1,14 +1,12 @@
 ---
-title: "Lecture Slides"
+title: "Διαλέξεις του μαθήματος"
 format: html
 ---
 
-# Available Lectures
+# Διαθέσιμες διαλέξεις
 
-Click on any lecture below to view the slides:
+Πατήστε σε ένα από τα παρακάτω link για να δείτε την παρουσίαση
 
-- [Lecture 1: Topic Title](slides/lecture-01/index.qmd)
-- [Lecture 2: Topic Title](slides/lecture-02/index.qmd)
-- [Lecture 3: Topic Title](slides/lecture-03/index.qmd)
+- [Διάλεξη 01](slides/lecture-01/index.qmd)
 
-*More lectures will be added throughout the semester.*
+*Περισσότερες διαλέξεις θα προστεθούν κατά τη διάρκεια του εξαμήνου*
