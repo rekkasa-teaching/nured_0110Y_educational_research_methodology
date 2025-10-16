@@ -1,19 +1,23 @@
 ---
-title: "Ποσοτική & Ποιοτική Έρευνα — Ορισμοί & Κύριοι Σχεδιασμοί"
-subtitle: "Μεθοδολογία Εκπαιδευτικής Έρευνας"
-author: "Τμήμα Πληροφορικής στην Εκπαίδευση"
+title: "Μεθοδολογία Εκπαιδευτικής Έρευνας (0110Υ)"
+subtitle: "Χειμερινό εξάμηνο 2025-2026"
+author: "Αλέξανδρος Ρέκκας"
 date: "2025-10-16"
 format:
   revealjs:
     theme: [default, custom.scss]
     logo: logo.jpg
-    footer: "Μεθοδολογία Εκπαιδευτικής Έρευνας | ΠΤΝ - ΠΔΜ"
+    footer: "Μεθοδολογία Εκπαιδευτικής Έρευνας | Παιδαγωγικό Τμήμα Νηπιαγωγών - ΠΔΜ"
     slide-number: c/t
     incremental: false
     transition: slide
     background-transition: fade
     highlight-style: monokai
     code-line-numbers: false
+    preview-links: auto
+    width: 1280
+    height: 720
+lang: el
 ---
 
 
