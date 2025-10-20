@@ -15,6 +15,9 @@ format:
     #v(5pt)
     #body
   ]
+
+#set list(indent: 18pt)
+#set enum(indent: 18pt)
 ```
 
 # Ποσοτική έρευνα
