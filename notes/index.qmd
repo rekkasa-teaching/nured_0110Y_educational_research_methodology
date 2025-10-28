@@ -8,7 +8,12 @@ format:
     toc: true
     format-links: [pdf]
     css: ../styles.css
-  typst: default
+  typst:
+    toc: true
+    toc-depth: 3
+    number-sections: true
+    section-numbering: "1.1"
+    keep-typ: true
 ---
 
 ::: {.content-visible when-format="html"}

@@ -33,6 +33,17 @@ format:
 #pagebreak()
 ```
 
+```{=typst}
+#outline(title: [Περιεχόμενα], depth: 3)
+```
+```{=typst}
+#pagebreak()
+```
+
+```{=typst}
+#pagebreak()
+```
+
 {{< include chapter-01.qmd >}}
 
 ```{=typst}
@@ -46,6 +57,10 @@ format:
 ```
 
 {{< include chapter-03.qmd >}}
+
+```{=typst}
+#pagebreak()
+```
 
 ```{=typst}
 #pagebreak()
