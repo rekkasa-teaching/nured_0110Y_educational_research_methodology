@@ -1,0 +1,332 @@
+---
+title: "Μεθοδολογία Εκπαιδευτικής Έρευνας (0110Υ)"
+subtitle: "Χειμερινό εξάμηνο 2025-2026"
+author: "Αλέξανδρος Ρέκκας"
+date: "2025-11-06"
+format:
+  revealjs:
+    theme: [default, custom.scss]
+    logo: logo.jpg
+    footer: "Μεθοδολογία Εκπαιδευτικής Έρευνας | Παιδαγωγικό Τμήμα Νηπιαγωγών - ΠΔΜ"
+    slide-number: c/t
+    incremental: false
+    transition: slide
+    background-transition: fade
+    highlight-style: monokai
+    code-line-numbers: false
+    preview-links: auto
+    width: 1280
+    height: 720
+lang: el
+---
+
+# Υπενθύμιση
+
+## 
+
+Για τον προσδιορισμό του ερευνητικού θέματος ακολουθούνται τα βήματα:
+
+1. Γενική διατύπωση του ερευνητικού θέματος.
+2. Διευκρίνιση του επιστημονικού θέματος.
+3. Διατύπωση του ερευνητικού θέματος.
+4. Διατύπωση ερευνητικών ερωτημάτων.
+5. Διατύπωση ερευνητικών υποθέσεων.
+
+# Βιβλιογραφική ανασκόπηση
+
+## Στόχοι
+
+Οι στόχοι της βιβλιογραφικής ανασκόπησης είναι:
+
+- Αναγνώριση του επιστημονικού πεδίου (τι είναι γνωστό ή άγνωστο).
+- Υποστήριξη του ερευνητικού προβλήματος και των μεθόδων.
+- Αναγνώριση υφιστάμενων θεωριών.
+- Αναγνώριση ελλείψεων και τάσεων.
+- Αποφυγή διερεύνησης ήδη απαντημένων ερωτημάτων.
+
+## Στόχοι
+
+Μία καλή βιβλιογραφική ανακόπηση:
+
+- Παράγει ένα συνεκτικό επιχείρημα (όχι μία απλή απαρίθμηση πηγών).
+- Χαρτογραφεί βασικά θέματα και τις μεταξύ τους σχέσεις.
+- Αναδεικνύει σαφείς ανεπάρκειες που θα καλύψει η μελέτη μας.
+- Εναρμονίζει τα ερευνητικά ερωτήματα με το ερευνητικό πεδίο.
+
+## Τύποι πηγών
+
+Οι τύποι των πηγών που θα συμπεριλάβουμε στη βιβλιογραφική μελέτη μπορούν να
+είναι:
+
+- Πρόσφατα άρθρα με κριτές (peer-reviewed).
+- Σημαντικά/θεμελιώδη θεωρητικά κείμενα.
+- Διδακτορικές διατριβές (με μέτρο και σαφή επισήμανση).
+
+## Εμβέλεια
+
+Η εμβέλεια της βιβλιογραφικής μελέτης πρέπει να καθορίζεται ρητά:
+
+- Χρονικό πλαίσιο (π.χ. τελευταία 10 έτη + κλασικά).
+- Πληθυσμός (π.χ. νήπια/νηπιαγωγείο).
+- Γενικό πλαίσιο (π.χ. παιχνιδοκεντρική μάθηση, γωνιές τάξης).
+- Τύποι μελετών (ποσοτικές/ποιοτικές/μικτές).
+
+## Βασικά βήματα
+
+Τα βασικά βήματα που ακολουθούνται συνήθως για την πραγματοποίηση μίας
+βιβλιογραφικής ανασκόπησης είναι:
+
+1. Ορισμός λέξεων-κλειδιών.
+2. Αναζήτηση σε βάσεις βιβλιογραφικών αναφορών.
+3. Διαλογή και αξιολόγηση πηγών.
+4. Εξαγωγή πλήρους κειμένου και συνόψιση.
+5. Σύνθεση.
+6. Συγγραφή και αναθεώρηση.
+
+## Βήμα 1: Λέξεις-κλειδιά
+
+Κάποιες καλές πρακτικές:
+
+- Διαίρεση σε εννοιολογικές ενότητες (πλαίσιο, πληθυσμός, έκβαση).
+- Καταγραφή συνωνύμων και συναφών όρων.
+- Χρήση τυποποιημένου λεξιλογίου, αν υπάρχει(π.χ. ERIC Thesaurus).
+- Συνήθως, διαδικασία που επαναλαμβάνεται αρκετές φορές.
+
+## Βήμα 2: Αναζήτηση σε βάσεις βιβλιογραφικών αναφορών
+
+- Google Scholar (ευρύς εντοπισμός).
+- ERIC
+- Scopus/Web of Science (αλυσίδες παραπομπών).
+- Πλατφόρμες εκδοτών για ειδοποιήσεις.
+- ResearchRabbit (AI για αλυσίδες παραπομπών)
+
+
+## Βήμα 3: Αξιολόγηση πηγών
+
+- Σχετικότητα: 
+  - Είναι η εργασία σχετική με το αντικείμενο της μελέτης μας;
+  - Μπορώ από τον τίτλο και την σύνοψη (abstract) να συμπεράνω σχετικότητα;
+- Συγγραφέας:
+  - Ποιο είναι τα επιστημονικό πεδίο του συγγραφέα;
+  - Έχει φήμη ο συγγραφέας στο συγκεκριμένο πεδίο που μελετάμε;
+
+## Βήμα 3: Αξιολόγηση πηγών
+
+- Πηγή (π.χ. επιστημονικό περιοδικό):
+  - Σε ποιο περιοδικό δημοσιεύθηκε η εργασία;
+  - Είχε το περιοδικό σύστημα κριτών (peer review);
+- Μεθοδολογία:
+  - Χρησιμοποιήθηκαν οι σωστές μέθοδοι για τη συλλογή και ανάλυση των δεδομένων;
+- Χρονικό πλαίσιο:
+  - Πότε πραγματοποιήθηκε η μελέτη;
+
+## Βήμα 4: Εξαγωγή πλήρους κειμένου και συνόψιση
+
+Αφού καταλήξουμε σε μία λίστα με τις πηγές που θέλουμε εξάγουμε το πλήρες
+κείμενο. Μετά, προχωράμε σε μία σύντομη δομημένη περίληψη:
+
+- ερώτημα
+- θεωρία
+- μέθοδος
+- δείγμα
+- ευρήματα
+- όρια
+
+## Βήμα 5: Σύνθεση
+
+- Ομαδοποίηση κατά θέμα, μέθοδο ή θεωρία.
+- Ομαδοποίηση ανά χρονική περίοδο (πολύ σπάνια εφικτό).
+- Σύγκριση ευρημάτων και εξήγηση διαφορών.
+- Ανάδειξη κενού που οδηγεί στο πρόβλημα που θα ασχοληθούμε στη μελέτη.
+
+## Βήμα 5: Σύνθεση
+
+\
+
+<table style="border-collapse: collapse; width: 100%;">
+  <thead>
+    <tr>
+      <th style="border: 1px solid black; padding: 8px;">Συγγραφείς</th>
+      <th style="border: 1px solid black; padding: 8px;">Έτος</th>
+      <th colspan="4" style="border: 1px solid black; padding: 8px; text-align: center;">Μεταβλητές της μελέτης</th>
+    </tr>
+    <tr>
+      <th style="border: 1px solid black; padding: 8px;"></th>
+      <th style="border: 1px solid black; padding: 8px;"></th>
+      <th style="border: 1px solid black; padding: 8px;">Μεταβλητή 1</th>
+      <th style="border: 1px solid black; padding: 8px;">Μεταβλητή 2</th>
+      <th style="border: 1px solid black; padding: 8px;">...</th>
+      <th style="border: 1px solid black; padding: 8px;">Μεταβλητή 100</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td style="border: 1px solid black; padding: 8px;"></td>
+      <td style="border: 1px solid black; padding: 8px;"></td>
+      <td style="border: 1px solid black; padding: 8px;"></td>
+      <td style="border: 1px solid black; padding: 8px;"></td>
+      <td style="border: 1px solid black; padding: 8px;">...</td>
+      <td style="border: 1px solid black; padding: 8px;"></td>
+    </tr>
+    <tr>
+      <td style="border: 1px solid black; padding: 8px;"></td>
+      <td style="border: 1px solid black; padding: 8px;"></td>
+      <td style="border: 1px solid black; padding: 8px;"></td>
+      <td style="border: 1px solid black; padding: 8px;"></td>
+      <td style="border: 1px solid black; padding: 8px;">...</td>
+      <td style="border: 1px solid black; padding: 8px;"></td>
+    </tr>
+    <tr>
+      <td style="border: 1px solid black; padding: 8px;"></td>
+      <td style="border: 1px solid black; padding: 8px;"></td>
+      <td style="border: 1px solid black; padding: 8px;"></td>
+      <td style="border: 1px solid black; padding: 8px;"></td>
+      <td style="border: 1px solid black; padding: 8px;">...</td>
+      <td style="border: 1px solid black; padding: 8px;"></td>
+    </tr>
+    <tr>
+      <td style="border: 1px solid black; padding: 8px;"></td>
+      <td style="border: 1px solid black; padding: 8px;"></td>
+      <td style="border: 1px solid black; padding: 8px;"></td>
+      <td style="border: 1px solid black; padding: 8px;"></td>
+      <td style="border: 1px solid black; padding: 8px;">...</td>
+      <td style="border: 1px solid black; padding: 8px;"></td>
+    </tr>
+  </tbody>
+</table>
+
+## Βήμα 5: Σύνθεση
+
+\
+
+<table style="border-collapse: collapse; width: 100%;">
+  <thead>
+    <tr>
+      <th style="border: 1px solid black; padding: 8px;">Συγγραφείς</th>
+      <th style="border: 1px solid black; padding: 8px;">Έτος</th>
+      <th colspan="4" style="border: 1px solid black; padding: 8px; text-align: center;">Μεθοδολογία της μελέτης</th>
+    </tr>
+    <tr>
+      <th style="border: 1px solid black; padding: 8px;"></th>
+      <th style="border: 1px solid black; padding: 8px;"></th>
+      <th style="border: 1px solid black; padding: 8px;">Μέθοδος 1</th>
+      <th style="border: 1px solid black; padding: 8px;">Μέθοδος 2</th>
+      <th style="border: 1px solid black; padding: 8px;">...</th>
+      <th style="border: 1px solid black; padding: 8px;">Μέθοδος 100</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td style="border: 1px solid black; padding: 8px;"></td>
+      <td style="border: 1px solid black; padding: 8px;"></td>
+      <td style="border: 1px solid black; padding: 8px;"></td>
+      <td style="border: 1px solid black; padding: 8px;"></td>
+      <td style="border: 1px solid black; padding: 8px;">...</td>
+      <td style="border: 1px solid black; padding: 8px;"></td>
+    </tr>
+    <tr>
+      <td style="border: 1px solid black; padding: 8px;"></td>
+      <td style="border: 1px solid black; padding: 8px;"></td>
+      <td style="border: 1px solid black; padding: 8px;"></td>
+      <td style="border: 1px solid black; padding: 8px;"></td>
+      <td style="border: 1px solid black; padding: 8px;">...</td>
+      <td style="border: 1px solid black; padding: 8px;"></td>
+    </tr>
+    <tr>
+      <td style="border: 1px solid black; padding: 8px;"></td>
+      <td style="border: 1px solid black; padding: 8px;"></td>
+      <td style="border: 1px solid black; padding: 8px;"></td>
+      <td style="border: 1px solid black; padding: 8px;"></td>
+      <td style="border: 1px solid black; padding: 8px;">...</td>
+      <td style="border: 1px solid black; padding: 8px;"></td>
+    </tr>
+    <tr>
+      <td style="border: 1px solid black; padding: 8px;"></td>
+      <td style="border: 1px solid black; padding: 8px;"></td>
+      <td style="border: 1px solid black; padding: 8px;"></td>
+      <td style="border: 1px solid black; padding: 8px;"></td>
+      <td style="border: 1px solid black; padding: 8px;">...</td>
+      <td style="border: 1px solid black; padding: 8px;"></td>
+    </tr>
+  </tbody>
+</table>
+
+## Βήμα 6: Συγγραφή
+
+- Διαχωρισμός απόψεων και γεγονότων.
+- Σαφής ορισμός όρων και χρήση με **συνέπεια**.
+- Οργάνωση με λογική σειρά.
+- Στόχευση συγκεκριμένου κοινού.
+- Απλό (όχι απλοϊκό) λεξιλόγιο.
+
+## Παραδείγματα
+
+\
+
+**Σκοπός:**  
+Εξέταση των απόψεων των εκπαιδευτικών σχετικά με την συμβολή της
+Π.Ε. στην εκπαίδευση των ατόμων με αναπηρίες ή/και ειδικές εκπαιδευτικές ανάγκες.
+
+## Παραδείγματα
+
+**Ανασκόπηση:**
+
+- Μελέτες που στηρίζουν τη χρησιμότητα της Π.Ε. στην ανάπτυξη δεξιοτήτων.
+- Μελέτες που στηρίζουν την χρησιμότητα της Π.Ε. στην ανάπτυξη δεξιοτήτων σε
+  παιδιά με αναπηρίες.
+- Μελέτες που δείχνουν ότι η εφαρμογή της Π.Ε. εξαρτάται από τη στάση των
+  εκπαιδευτικών.
+
+**Κενό:**  
+Δεν ξέρουμε τη στάση των εκπαιδευτικών για την Π.Ε. στην εκπαίδευση παιδιών με
+αναπηρία.
+
+## Παραδείγματα
+
+\
+
+**Σκοπός:**  
+Η ανάδειξη της δυνατότητα του ΕΠΧ να επιδράσει στην κινητική και κοινωνική
+ανάπτυξη παιδιών προσχολικής ηλικίας.
+
+## Παραδείγματα
+
+**Ανασκόπηση:**
+
+- Μελέτες που υποστηρίζουν τη γενική χρησιμότητα του ΕΠΧ
+- Μελέτες που καταδεικνύουν τον παραγκωνισμό των ΕΠΧ από στην προσχολική
+  εκπαίδευση.
+- Μελέτες που αποδεικνύουν την χρησιμότητα των ΕΠΧ σε μια σειρά τομείς.
+
+**Κενό:**  
+Έλλειψη επαρκών μελετών που να υποστηρίζουν τα οφέλη του ΕΠΧ στην προσχολική
+εκπαίδευση.
+
+## Google Scholar: Βασικά
+
+- Ακριβείς φράσεις με εισαγωγικά: `"συμπερίληψη στην εκπαίδευση"`.
+- Συνδυασμοί `AND/OR`, αποκλεισμός με `-`.
+- Ταξινόμηση κατά ημερομηνία
+
+## Παράδειγμα
+
+> **Στόχος**
+> 
+> Ανεύρεση ποιοτικών εργασιών με τις λέξεις "συμπερίληψη" ή "συμπερίληψη στην
+> εκπαίδευση" στο νηπιαγωγείο αποκλείοντας όλες τις διατριβές.
+
+\
+
+```
+==== GOOGLE SCHOLAR ====
+
+(συμπερίληψη OR "συμπερίληψη στην εκπαίδευση")
+AND ("νηπιαγωγείο" OR "προσχολική εκπαίδευση") 
+AND ποιοτική
+-ποσοτική 
+-thesis 
+-dissertation 
+-site:apothesis.eap.gr
+-site:repo.lib.duth.gr
+-site:ir.lib.uth.gr
+```
