@@ -261,6 +261,8 @@ lang: el
 
 ## Παραδείγματα
 
+[Μελέτη](https://ejournals.epublishing.ekt.gr/index.php/hjre/article/view/24657/21182)
+
 \
 
 **Σκοπός:**  
@@ -283,10 +285,12 @@ lang: el
 
 ## Παραδείγματα
 
+[Μελέτη](https://ejournals.epublishing.ekt.gr/index.php/thea/article/view/30715/26057)
+
 \
 
 **Σκοπός:**  
-Η ανάδειξη της δυνατότητα του ΕΠΧ να επιδράσει στην κινητική και κοινωνική
+Η ανάδειξη της δυνατότητας του ΕΠΧ να επιδράσει στην κινητική και κοινωνική
 ανάπτυξη παιδιών προσχολικής ηλικίας.
 
 ## Παραδείγματα
@@ -302,7 +306,9 @@ lang: el
 Έλλειψη επαρκών μελετών που να υποστηρίζουν τα οφέλη του ΕΠΧ στην προσχολική
 εκπαίδευση.
 
-## Google Scholar: Βασικά
+# Βασικά εργαλεία
+
+## Google Scholar
 
 - Ακριβείς φράσεις με εισαγωγικά: `"συμπερίληψη στην εκπαίδευση"`.
 - Συνδυασμοί `AND/OR`, αποκλεισμός με `-`.
@@ -324,9 +330,51 @@ lang: el
 AND ("νηπιαγωγείο" OR "προσχολική εκπαίδευση") 
 AND ποιοτική
 -ποσοτική 
--thesis 
--dissertation 
 -site:apothesis.eap.gr
 -site:repo.lib.duth.gr
 -site:ir.lib.uth.gr
 ```
+
+## ERIC
+
+```
+==== ERIC ====
+
+(
+  DE("Inclusive Education" OR "Inclusion")
+  OR TI(inclusion OR "inclusive education")
+  OR AB(inclusion OR "inclusive education")
+)
+AND
+(
+  DE("Preschool Education" OR "Kindergarten" OR "Early Childhood Education")
+  OR TI(kindergarten OR preschool OR "early childhood education")
+  OR AB(kindergarten OR preschool OR "early childhood education")
+)
+AND
+(
+  DE("Qualitative Research")
+  OR TI(qualitative)
+  OR AB(qualitative)
+)
+NOT
+(
+  DE("Quantitative Research")
+  OR TI(quantitative)
+  OR AB(quantitative)
+)
+```
+
+## Zotero
+
+Πρόγραμμα διαχείρισης αναφορών
+
+![](figures/zotero.png)
+
+## ResearchRabbit
+
+[link](https://www.researchrabbit.ai/)
+
+\
+
+Δημιουργεί έναν χάρτη τον αναφορών.
