@@ -17,5 +17,6 @@ format: html
 - [Διάλεξη 08](slides/lecture-08/index.qmd)
 - [Διάλεξη 09](slides/lecture-09/index.qmd)
 - [Διάλεξη 10](slides/lecture-10/index.qmd)
+- [Διάλεξη 11](slides/lecture-11/index.qmd)
 
 *Περισσότερες διαλέξεις θα προστεθούν κατά τη διάρκεια του εξαμήνου*
